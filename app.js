@@ -1,4 +1,3 @@
-recuperar-codigo.js
 let tela = "login";
 let usuario = null;
 let materias = [];
@@ -778,3 +777,5 @@ function iniciarAplicacao() {
 }
 
 document.addEventListener("DOMContentLoaded", iniciarAplicacao);
+
+recuperar-codigo.js
